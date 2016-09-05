@@ -7,6 +7,10 @@ import org.junit.Assert;
 import tp1.DeviseException;
 import tp1.Money;
 
+/**
+ * Classe de tests de la classe Money
+ * @author cyprien
+ */
 public class Test {
 	
 	@org.junit.Test()
